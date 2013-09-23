@@ -80,13 +80,13 @@
 	</Item>
 	<Item Name="Methods" Type="Folder">
 		<Item Name="Add.vi" Type="VI" URL="../Methods/Add.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$*!!!!"!!%!!!!,E"Q!"Y!!"545WFN='RF172E:8)O&lt;(:D&lt;'&amp;T=Q!05WFN='RF172E:8)A&lt;X6U!#Z!=!!?!!!6%V.J&lt;8"M:5&amp;E:'6S,GRW9WRB=X-!$F.J&lt;8"M:5&amp;E:'6S)'FO!!"B!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A)!!(A!!!!!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!$!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%'!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V.J&lt;8"M:5&amp;E:'6S,GRW9WRB=X-!$V.J&lt;8"M:5&amp;E:'6S)'^V&gt;!!O1(!!(A!!&amp;2.4;7VQ&lt;'6":'2F=CZM&gt;G.M98.T!!Z4;7VQ&lt;'6":'2F=C"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!1!"!!%!!9$!!"Y!!!*!!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!"Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
 </LVClass>
