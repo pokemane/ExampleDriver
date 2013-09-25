@@ -1,0 +1,9 @@
+0.1.0 Alpha
+
+
+Set up the example program to use the message library.  The key is the in-place element structures.
+Set up to work by using a single "Execute.vi" method in the consumer loop.
+
+
+Check out the comments.  I have basically explained the entire process in there.
+Will be updating the changelog hereafter with anything that changes.
